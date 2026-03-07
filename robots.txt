@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://didaca3301.github.io/sitemap.xml
